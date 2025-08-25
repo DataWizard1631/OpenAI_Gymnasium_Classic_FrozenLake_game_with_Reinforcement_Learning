@@ -10,10 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>OpenAI_Gymnasium-Classic_-FrozenLake_game_with_Reinforcement_Learning</h1>
-    <h3>This repository demonstrates the FrozenLake environment from OpenAI Gymnasium Classic, showcasing reinforcement learning techniques to navigate a grid world safely from start to finish.</h3>
-
-
+    
 <h2>Overview</h2>
 <ul>
     <li><b>Objective</b>: Move the character from the <b>start (top-left)</b> to the <b>goal (bottom-right)</b> without falling into frozen lakes (holes).</li>
