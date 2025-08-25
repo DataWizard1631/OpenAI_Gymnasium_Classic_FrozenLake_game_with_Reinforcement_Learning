@@ -36,13 +36,13 @@
 <h2>Simulation Snapshots</h2>
 <div style="display: flex; flex-direction: column; gap: 10px;">
 <div style="display: flex; justify-content: space-around;">
-<img src="./results/1.png" alt="Simulation 1" width="250"/>
-<img src="./results/2.png" alt="Simulation 2" width="250"/>
-<img src="./results/3.png" alt="Simulation 3" width="250"/>
+<img src="./resutls/1.png" alt="Simulation 1" width="250"/>
+<img src="./resutls/2.png" alt="Simulation 2" width="250"/>
+<img src="./resutls/3.png" alt="Simulation 3" width="250"/>
 </div>
 <div style="display: flex; justify-content: space-around;">
-<img src="./results/4.png" alt="Simulation 4" width="250"/>
-<img src="./results/5.png" alt="Simulation 5" width="250"/>
-<img src="./results/6.png" alt="Simulation 6" width="250"/>
+<img src="./resutls/4.png" alt="Simulation 4" width="250"/>
+<img src="./resutls/5.png" alt="Simulation 5" width="250"/>
+<img src="./resutls/6.png" alt="Simulation 6" width="250"/>
 </div>
 </div>
